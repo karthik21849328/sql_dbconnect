@@ -1,5 +1,3 @@
-# sql_dbconnect
+# sql_dbconnect 
 
-
-
-to describe about the project 
+Above code helps us describe how to connect database to python with dictinary way of connecting
